@@ -1,8 +1,2 @@
-| SEARCH OPTIONS | WHAT IT'S FOR |
 | :--- | :--- |
-| <a href="https://github.com/rlorenzini/mySequelizeTutorial#and-so-it-begins>DOC#START"</a> | BEGINNING OF DOCUMENTATION |
-| SQLZ#START | SETTING UP FROM SCRATCH |
-| SQLZ#NPM | SEQUELIZE INSTALLATION |
-| SQLZ#DB | SETTING UP THE DATABASE |
-| SQLZ#MIG | FIRST MIGRATION |
-| SQLZ#FORMS | FORMS AND POSTS |
+| [DOC#START](https://github.com/rlorenzini/mySequelizeTutorial#and-so-it-begins) | BEGINNING OF DOCUMENTATION |
